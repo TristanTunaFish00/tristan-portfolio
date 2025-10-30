@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Live Demo
 
-[View Portfolio]((https://tristantunafish00.github.io/tristan-portfolio/))  
+[View Portfolio](https://tristantunafish00.github.io/tristan-portfolio/)
 
 
 ## 🛠️ Built With
